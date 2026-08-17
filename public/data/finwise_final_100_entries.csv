@@ -1,0 +1,101 @@
+id,name,age,gender,city,occupation,maritalStatus,taxRegime,monthlyIncome,monthlyExpenses,savingsAccount,mutualFundsEquity,directStocks,epfPpf,goldSgb,realEstate,liabilitiesLoans,riskAppetite,primaryGoal,targetAmount,targetYears
+1,Aarav Sharma,28,Male,Bengaluru,Lead Software Engineer,Unmarried,New Regime,210000,80000,450000,1850000,750000,620000,300000,0,0,Aggressive,Buy 3BHK Flat in Whitefield,14000000,5
+2,Priya Patel,35,Female,Mumbai,VP Product Management,Married,Old Regime,320000,140000,800000,4200000,1500000,1850000,900000,8500000,2800000,Moderate,Child Education Fund,6500000,14
+3,Rohan Verma,42,Male,Pune,IT Director,Married,Old Regime,450000,190000,1500000,9200000,3400000,3800000,1800000,16000000,1200000,Moderate,Children Overseas Masters,12000000,6
+4,Vikram Iyer,24,Male,Chennai,Fintech Quant Analyst,Unmarried,New Regime,125000,45000,200000,650000,480000,150000,120000,0,0,Aggressive,Startup Seed Corpus,5000000,5
+5,Rajesh Gupta,52,Male,Delhi-NCR,Manufacturing Owner,Married,Old Regime,650000,220000,3500000,14500000,8500000,7500000,5200000,38000000,0,Conservative,Retirement Pension Trust,100000000,8
+6,Ananya Sen,31,Female,Kolkata,Senior Data Scientist,Unmarried,New Regime,190000,65000,400000,1400000,600000,550000,250000,0,0,Moderate,Buy 2BHK Flat in Salt Lake,8500000,4
+7,Siddharth Rao,38,Male,Hyderabad,Enterprise Architect,Married,New Regime,340000,130000,900000,5100000,1800000,2200000,750000,11000000,3500000,Moderate,Villa Downpayment in Gachibowli,18000000,6
+8,Neha Deshmukh,29,Female,Pune,UX Design Lead,Unmarried,New Regime,160000,55000,350000,1100000,450000,380000,200000,0,0,Aggressive,FIRE Corpus at Age 40,35000000,11
+9,Aditya Kulkarni,45,Male,Nagpur,Civil Infrastructure Consultant,Married,Old Regime,280000,110000,1200000,3800000,1200000,2900000,1400000,9500000,1500000,Conservative,Child Medical College Fund,7500000,5
+10,Kavita Menon,33,Female,Kochi,Senior HR Director,Married,Old Regime,220000,95000,600000,2100000,800000,1100000,850000,6500000,1800000,Moderate,Ancestral Home Renovation,4000000,3
+11,Arjun Nair,26,Male,Bengaluru,Backend AI Engineer,Unmarried,New Regime,175000,60000,300000,950000,500000,280000,150000,0,0,Aggressive,First 1 Crore Milestone,10000000,4
+12,Sneha Reddy,36,Female,Hyderabad,Biotech Research Manager,Married,New Regime,260000,105000,700000,3400000,1100000,1600000,650000,7500000,2200000,Moderate,Child US Education,9000000,12
+13,Manish Agarwal,48,Male,Jaipur,Textile Mill Proprietor,Married,Old Regime,520000,180000,2800000,8500000,4200000,4800000,3600000,24000000,0,Conservative,Commercial Showroom,25000000,4
+14,Pooja Bansal,27,Female,Chandigarh,Senior Financial Analyst,Unmarried,New Regime,140000,50000,250000,800000,350000,240000,180000,0,0,Moderate,World Tour & Sabbatical,1500000,3
+15,Varun Bhatt,34,Male,Ahmedabad,Chemical Plant Lead,Married,Old Regime,230000,90000,650000,2600000,950000,1350000,800000,6000000,1900000,Moderate,Buy Commercial Office,5500000,5
+16,Divya Pillai,40,Female,Thiruvananthapuram,State Govt Medical Officer,Married,Old Regime,210000,85000,1100000,2400000,600000,3200000,1600000,8000000,0,Conservative,Daughter Marriage & Gold,5000000,7
+17,Karan Malhotra,30,Male,Delhi-NCR,Cloud DevOps Consultant,Unmarried,New Regime,240000,85000,550000,2100000,1100000,720000,320000,0,0,Aggressive,Luxury Electric SUV & Travel,4500000,2
+18,Shreya Ghosh,32,Female,Kolkata,Fintech Product Owner,Unmarried,New Regime,185000,70000,420000,1650000,700000,580000,300000,0,0,Moderate,Retirement at 50,45000000,18
+19,Alok Mishra,46,Male,Lucknow,Civil Contractor,Married,Old Regime,380000,150000,1800000,4600000,1800000,3100000,2100000,14000000,2500000,Conservative,Elder Son MBA Fund,6000000,4
+20,Meera Swaminathan,25,Female,Coimbatore,Embedded Systems Developer,Unmarried,New Regime,110000,40000,180000,450000,300000,120000,100000,0,0,Aggressive,Masters in Germany,3500000,3
+21,Gaurav Chopra,39,Male,Gurugram,Investment Banker,Married,New Regime,580000,210000,2200000,12500000,6200000,4100000,1900000,21000000,4500000,Aggressive,Golf Course Villa,35000000,7
+22,Ritu Singhal,37,Female,Noida,EdTech Vice President,Married,New Regime,310000,120000,750000,3900000,1400000,1900000,700000,9000000,2400000,Moderate,Twin Children Education,15000000,10
+23,Naveen Hegde,43,Male,Mangaluru,Marine Logistics Director,Married,Old Regime,360000,140000,1400000,5800000,2100000,2800000,1600000,12500000,1800000,Moderate,Beach Resort Investment,15000000,5
+24,Tanvi Joshi,28,Female,Indore,Chartered Accountant,Unmarried,New Regime,165000,55000,380000,1200000,550000,420000,250000,0,0,Moderate,Independent CA Practice Office,6000000,6
+25,Deepak Rathi,50,Male,Surat,Diamond Export Trader,Married,Old Regime,720000,250000,4200000,16800000,9200000,6500000,6800000,42000000,0,Conservative,Estate Transfer Trust,120000000,10
+26,Pallavi Nambiar,33,Female,Bengaluru,Cybersecurity Architect,Married,New Regime,245000,90000,620000,2700000,1050000,1250000,550000,6500000,1600000,Moderate,Second Home in Coorg,9000000,7
+27,Harsh Vardhan,23,Male,Patna,Remote Fullstack Engineer,Unmarried,New Regime,135000,35000,220000,580000,410000,110000,90000,0,0,Aggressive,Seed Venture Fund,4000000,5
+28,Sunita Das,47,Female,Bhubaneswar,Chief Medical Officer,Married,Old Regime,270000,100000,1300000,4100000,1300000,3500000,1800000,11000000,0,Conservative,Retirement Farmhouse,8000000,5
+29,Pranav Mathur,31,Male,Delhi-NCR,Strategy Consultant,Unmarried,New Regime,290000,110000,700000,2900000,1300000,1050000,450000,0,0,Aggressive,Global Real Estate REITs,15000000,8
+30,Shalini Saxena,35,Female,Vadodara,Pharma R&D Specialist,Married,Old Regime,195000,75000,500000,2200000,750000,1300000,600000,5500000,1400000,Moderate,Daughter Stanford Corpus,18000000,13
+31,Ashwin Sundaram,29,Male,Chennai,Automotive EV Designer,Unmarried,New Regime,180000,65000,390000,1350000,620000,480000,220000,0,0,Aggressive,Tesla / EV Startup Fund,7500000,6
+32,Bhavna Mehta,41,Female,Mumbai,Corporate Legal Counsel,Married,Old Regime,410000,160000,1600000,7800000,2900000,3200000,1400000,17000000,3200000,Moderate,Sea-Facing Apartment Upgrade,30000000,8
+33,Tushar Kedia,34,Male,Kolkata,Stock Broker & Trader,Married,New Regime,350000,125000,950000,4800000,3200000,1400000,850000,8000000,1500000,Aggressive,Proprietary Trading Desk,20000000,5
+34,Kiran Mayi,27,Female,Visakhapatnam,Port Logistics Analyst,Unmarried,New Regime,120000,45000,220000,620000,280000,190000,140000,0,0,Moderate,Executive MBA in Singapore,4500000,4
+35,Vikas Somani,54,Male,Kanpur,Leather Export Business,Married,Old Regime,580000,200000,3100000,12200000,5400000,5800000,4200000,28000000,0,Conservative,Elderly Medical Care Trust,20000000,6
+36,Ankit Chadha,30,Male,Amritsar,Hospitality Group Partner,Married,Old Regime,260000,95000,700000,2400000,1100000,1200000,950000,12000000,2800000,Moderate,Heritage Hotel Expansion,22000000,7
+37,Smita Deshpande,38,Female,Nashik,Wine & Agro Entrepreneur,Married,Old Regime,290000,110000,900000,3600000,1400000,1800000,1200000,15000000,3500000,Moderate,Vineyard Modernization,18000000,5
+38,Rahul Kapoor,26,Male,Bengaluru,Growth Marketer,Unmarried,New Regime,155000,55000,300000,850000,450000,260000,160000,0,0,Aggressive,First Home Studio Flat,6500000,5
+39,Gayatri Raman,44,Female,Bengaluru,Aerospace Engineering VP,Married,New Regime,480000,175000,1900000,10500000,4200000,3900000,1700000,18500000,2100000,Moderate,Retirement at 55 with 15 Cr,150000000,11
+40,Suresh Nanda,51,Male,Cuttack,State PSU General Manager,Married,Old Regime,240000,90000,1600000,3200000,850000,4600000,2100000,9000000,0,Conservative,Daughter Wedding & Gold,6000000,3
+41,Payal Chawla,32,Female,Delhi-NCR,Media Relations Director,Unmarried,New Regime,225000,85000,580000,2300000,920000,840000,380000,0,0,Moderate,Penthouse Downpayment,12000000,6
+42,Madhavan Pillai,35,Male,Mysuru,Heritage Architect,Married,Old Regime,190000,70000,480000,2100000,720000,1100000,680000,5500000,1100000,Moderate,Eco-Resort Land Acquisition,8000000,6
+43,Nidhi Shah,28,Female,Surat,Jewellery CAD Designer,Unmarried,New Regime,145000,50000,320000,920000,420000,290000,350000,0,0,Moderate,Own Design Studio,5000000,4
+44,Abhay Singhania,49,Male,Ranchi,Mining Supply Chain Owner,Married,Old Regime,620000,220000,3200000,13800000,6500000,5900000,4800000,32000000,0,Conservative,Commercial Mall Space,40000000,5
+45,Lavanya Venkatesh,27,Female,Hyderabad,Cloud Solutions Engineer,Unmarried,New Regime,160000,52000,310000,980000,510000,280000,150000,0,0,Aggressive,Early FIRE by 42,40000000,15
+46,Praveen Rawat,36,Male,Dehradun,Forestry & Eco-Tourism Owner,Married,Old Regime,205000,75000,600000,2250000,800000,1400000,750000,7000000,1200000,Moderate,Himalayan Glamping Resort,9500000,5
+47,Simran Kaur,31,Female,Ludhiana,Textile Boutique Owner,Married,Old Regime,230000,85000,650000,2400000,950000,1150000,1200000,9500000,1800000,Moderate,Flagship Store in Delhi,14000000,6
+48,Jayant Mahajan,42,Male,Gwalior,Defense Supplier,Married,Old Regime,340000,130000,1300000,5200000,2100000,2700000,1600000,11000000,1500000,Moderate,Son NDA/Pilot Training,6500000,4
+49,Archana Hegde,29,Female,Udupi,Ayurvedic Medical Consultant,Unmarried,New Regime,150000,52000,340000,1050000,480000,360000,280000,0,0,Moderate,Wellness Clinic Launch,5500000,4
+50,Sunil Ganguly,53,Male,Kolkata,Steel Authority DGM,Married,Old Regime,265000,95000,1800000,3900000,1100000,5200000,2400000,10500000,0,Conservative,Retirement Corpus in Shantiniketan,12000000,7
+51,Gautam Shenoy,33,Male,Bengaluru,Blockchain Protocols Lead,Unmarried,New Regime,310000,95000,800000,4100000,2800000,1200000,450000,0,0,Aggressive,Crypto/Tech Venture Angel Fund,25000000,8
+52,Monika Bisht,30,Female,Noida,Semiconductor Verification Engineer,Unmarried,New Regime,190000,68000,450000,1600000,750000,520000,260000,0,0,Aggressive,Buy 3BHK in Sector 150,11000000,6
+53,Kartik Vasudevan,25,Male,Chennai,Quantitative Crypto Trader,Unmarried,New Regime,170000,50000,320000,950000,850000,210000,180000,0,0,Aggressive,Multi-Strategy Prop Fund,15000000,5
+54,Deepa Chandran,37,Female,Kochi,Maritime Shipping Manager,Married,Old Regime,250000,95000,750000,3100000,1050000,1700000,900000,8000000,2100000,Moderate,Child Aviation School,11000000,8
+55,Ojasvi Vohra,34,Male,Chandigarh,Automobile Dealership Owner,Married,Old Regime,420000,160000,1800000,6500000,2400000,2800000,1800000,19000000,3500000,Moderate,Luxury Service Hub,25000000,5
+56,Zoya Khan,28,Female,Hyderabad,Senior AI Product Specialist,Unmarried,New Regime,210000,72000,510000,1750000,820000,540000,290000,0,0,Aggressive,FIRE Corpus at Age 45,50000000,17
+57,Bhaskar Dasgupta,47,Male,Siliguri,Tea Estate Management Director,Married,Old Regime,330000,120000,1600000,4900000,1600000,3100000,1900000,14000000,1200000,Conservative,Organic Tea Brand Launch,15000000,4
+58,Ipsita Mukherjee,32,Female,Kolkata,Publishing Editor-in-Chief,Unmarried,New Regime,155000,58000,360000,1150000,480000,410000,250000,0,0,Moderate,Literary Residency Space,4500000,5
+59,Yashwant Solanki,41,Male,Udaipur,Heritage Stone Exporter,Married,Old Regime,390000,145000,1500000,5600000,2300000,2700000,2100000,16000000,2800000,Moderate,Marble Processing Facility,20000000,6
+60,Komal Trivedi,26,Female,Ahmedabad,Tax Technology Analyst,Unmarried,New Regime,125000,42000,240000,680000,340000,210000,160000,0,0,Moderate,US CPA Certification & Career,2000000,2
+61,Dhananjay Pai,39,Male,Goa,Hospitality & Cruise Director,Married,New Regime,295000,105000,850000,4200000,1700000,1800000,1100000,11500000,1900000,Moderate,Boutique Goa Villa,16000000,5
+62,Rashmi Barua,35,Female,Guwahati,Petroleum Refining Chemist,Married,Old Regime,205000,78000,620000,2350000,820000,1600000,780000,6500000,1200000,Moderate,Solar Power Plant on Ancestral Land,7000000,6
+63,Eshaan Qureshi,30,Male,Srinagar,Handicraft & Pashmina Exporter,Married,Old Regime,240000,85000,750000,2500000,1100000,1050000,950000,10500000,1500000,Moderate,Global E-Commerce Fulfillment,12000000,4
+64,Aishwarya Nambeesan,27,Female,Thrissur,Biomedical Engineer,Unmarried,New Regime,140000,48000,290000,840000,380000,260000,220000,0,0,Moderate,Higher Education in Ireland,4200000,3
+65,Niranjan Jha,48,Male,Darbhanga,Agro Cold Storage Owner,Married,Old Regime,350000,125000,1700000,4600000,1500000,2900000,2200000,13000000,1600000,Conservative,Children Higher Education,9000000,5
+66,Tarun Sahni,33,Male,Delhi-NCR,Automotive Component Vendor,Married,Old Regime,280000,105000,800000,3300000,1300000,1400000,900000,8500000,2200000,Moderate,Automatic Stamping Machine,10000000,4
+67,Anushree Roy,29,Female,Kolkata,Speech AI Specialist,Unmarried,New Regime,175000,62000,380000,1280000,580000,420000,230000,0,0,Aggressive,Pre-IPO Angel Allocations,6000000,5
+68,Pradeep Chhabra,52,Male,Faridabad,Forging Unit Manufacturer,Married,Old Regime,510000,190000,2900000,11500000,4800000,5200000,3800000,26000000,0,Conservative,Guaranteed Monthly Pension Fund,80000000,8
+69,Sanyukta Rane,36,Female,Mumbai,Film & OTT Executive Producer,Married,New Regime,330000,135000,920000,4400000,1900000,1700000,950000,12000000,3100000,Moderate,Independent Production Studio,25000000,7
+70,Girish Nadkarni,44,Male,Belagavi,Hydraulics Foundry Director,Married,Old Regime,310000,115000,1400000,4800000,1700000,2600000,1500000,10500000,1400000,Moderate,CNC Machine Upgrades,12000000,4
+71,Shlok Tandon,24,Male,Noida,Frontend Web3 Developer,Unmarried,New Regime,130000,42000,210000,540000,460000,140000,110000,0,0,Aggressive,First 50 Lakhs Milestone,5000000,3
+72,Manjula Krishnan,46,Female,Madurai,Textile Spinning Mills MD,Married,Old Regime,420000,150000,2100000,7600000,2800000,3900000,2400000,19000000,2500000,Conservative,Solar Rooftop Megawatt Project,22000000,5
+73,Varsha Agarwal,31,Female,Bareilly,Retail Chain General Manager,Married,Old Regime,185000,68000,440000,1500000,650000,550000,320000,4500000,900000,Moderate,Supermarket Expansion,7500000,5
+74,Kalyan Srinivas,38,Male,Vijayawada,Aqua Farming Entrepreneur,Married,Old Regime,440000,160000,2200000,6800000,2900000,2400000,1800000,17000000,3200000,Moderate,Hatchery Automation Unit,18000000,4
+75,Shruti Sengupta,28,Female,Durgapur,Power Grid Electrical Engineer,Unmarried,New Regime,135000,45000,260000,720000,340000,280000,160000,0,0,Moderate,Buy 2BHK in New Town Kolkata,6500000,5
+76,Abhishek Tyagi,35,Male,Meerut,Sports Goods Exporter,Married,Old Regime,270000,98000,720000,3100000,1200000,1500000,850000,8000000,1800000,Moderate,Composite Bat Manufacturing,9000000,5
+77,Farhan Ansari,29,Male,Aligarh,Lock Hardware Manufacturer,Unmarried,Old Regime,190000,65000,460000,1400000,680000,480000,350000,5000000,0,Moderate,Modern Zinc Die-Casting Unit,8000000,4
+78,Aarti Deshmukh,40,Female,Solapur,Sugar Mill Executive Director,Married,Old Regime,360000,135000,1500000,5900000,2100000,3100000,1600000,14000000,2100000,Moderate,Ethanol Distillery Expansion,20000000,5
+79,Ronit Mukherjee,26,Male,Kolkata,Game Developer & Streamer,Unmarried,New Regime,165000,52000,340000,880000,520000,210000,150000,0,0,Aggressive,VR Studio Infrastructure,5000000,3
+80,Geeta Subramaniam,50,Female,Coimbatore,Pumps & Motors Manufacturer,Married,Old Regime,480000,175000,2600000,9800000,3900000,4800000,2900000,22000000,0,Conservative,Daughter Marriage & Farmhouse,15000000,4
+81,Mohit Khurana,32,Male,Delhi-NCR,EdTech Regional Sales Head,Married,New Regime,235000,88000,580000,2400000,980000,920000,410000,7500000,2400000,Moderate,Upgrade to 3BHK Apartment,14000000,6
+82,Rachna Rawat,27,Female,Shimla,Organic Fruit Farming Head,Unmarried,Old Regime,120000,40000,230000,580000,290000,210000,190000,4000000,0,Moderate,Cold Storage for Apple Orchard,4500000,4
+83,Virendra Chauhan,45,Male,Bhopal,Heavy Electricals Vendor,Married,Old Regime,320000,120000,1300000,4800000,1600000,2700000,1500000,11000000,1600000,Moderate,Son Higher Education Abroad,8500000,5
+84,Tanmayee Godbole,34,Female,Thane,Biomedical Device Lead,Married,New Regime,240000,92000,650000,2900000,1150000,1300000,650000,7000000,1900000,Moderate,Child Education Fund,7000000,11
+85,Ashish Nanda,30,Male,Chandigarh,Logistics SaaS Founder,Unmarried,New Regime,270000,85000,680000,2800000,1400000,850000,350000,0,0,Aggressive,Seed Venture Capital Fund,15000000,5
+86,Kusum Lata,49,Female,Mathura,Dairy Cooperative Chairman,Married,Old Regime,310000,110000,1700000,4100000,1300000,3200000,2100000,12000000,0,Conservative,Automated Milk Chilling Plant,14000000,4
+87,Siddhartha Dey,31,Male,Agartala,Forestry & Rubber Trader,Unmarried,New Regime,160000,55000,380000,1100000,480000,390000,240000,0,0,Moderate,Rubber Processing Unit,6000000,5
+88,Nalini Jayaraman,37,Female,Salem,Steel Rolling Mills VP,Married,Old Regime,340000,130000,1200000,5400000,2100000,2400000,1500000,13000000,2200000,Moderate,Higher Education for Two Sons,14000000,8
+89,Chirag Pandya,25,Male,Rajkot,CNC Precision Toolmaker,Unmarried,Old Regime,115000,38000,210000,480000,310000,160000,140000,0,0,Moderate,High-Precision CNC Machine,3500000,4
+90,Vandana Shukla,43,Female,Varanasi,Handloom Silk Saree Exporter,Married,Old Regime,290000,105000,1100000,4200000,1500000,2100000,1800000,11000000,1100000,Moderate,Silk Weaving Cluster Modernization,12000000,5
+91,Akash Deep,28,Male,Jamshedpur,Tata Steel Metallurgy Lead,Unmarried,New Regime,185000,62000,420000,1450000,680000,580000,280000,0,0,Aggressive,FIRE Corpus at Age 45,45000000,17
+92,Leela Namboodiri,51,Female,Palakkad,Ayurveda Hospital Director,Married,Old Regime,380000,140000,2100000,6400000,2100000,3600000,2400000,16000000,0,Conservative,Ayurvedic Research Institute,25000000,6
+93,Kunal Trehan,33,Male,Ludhiana,Bicycle Components Vendor,Married,Old Regime,275000,98000,750000,3200000,1250000,1450000,880000,9000000,2100000,Moderate,Aluminum Frame Production,11000000,5
+94,Swati Bhattacharya,29,Female,Kolkata,Fintech Compliance Lead,Unmarried,New Regime,170000,60000,360000,1220000,540000,440000,220000,0,0,Moderate,Buy 2BHK Apartment,7500000,6
+95,Manpreet Singh,36,Male,Jalandhar,Sports Apparel Exporter,Married,Old Regime,310000,115000,950000,4100000,1650000,1800000,1250000,12000000,2400000,Moderate,Export Warehouse in UK,18000000,6
+96,Urvashi Soni,26,Female,Bikaner,Handicraft E-Commerce Lead,Unmarried,New Regime,130000,44000,250000,690000,320000,220000,190000,0,0,Moderate,Fulfillment Center Setup,3800000,4
+97,Raghavan Natesan,48,Male,Tiruchirappalli,Civil Structural Engineer,Married,Old Regime,295000,110000,1400000,4700000,1600000,3100000,1700000,10500000,0,Conservative,Retirement Corpus & Temple Trust,15000000,7
+98,Juhi Kothari,30,Female,Ahmedabad,Renewable Energy Consultant,Unmarried,New Regime,200000,72000,490000,1800000,810000,600000,320000,0,0,Aggressive,Green Hydrogen Angel Syndicate,8000000,5
+99,Sameer Walia,34,Male,Delhi-NCR,Fintech Product VP,Married,New Regime,360000,130000,1050000,5200000,2400000,1900000,850000,11000000,3200000,Aggressive,Luxury Farmhouse in Gurugram,28000000,7
+100,Hemant Shinde,46,Male,Kolhapur,Precision Engineering MD,Married,Old Regime,410000,150000,1900000,7200000,2700000,3400000,2100000,18000000,2200000,Moderate,Foundry Automation & Robotics,24000000,5
